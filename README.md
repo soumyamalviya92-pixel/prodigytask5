@@ -32,7 +32,7 @@ Neural Style Transfer works by:
 1. Upload the content and style images.
 2. '![style](https://github.com/user-attachments/assets/51fc121b-0def-49f0-b5a8-045f300738fd)
    and![content](https://github.com/user-attachments/assets/a1fe5bdc-ec5c-411a-a65f-c3692b9df3b6)
-3. Upload 'prodigytask5.ipybn' **OR** can oprn using githubnotebook URL.
+3. Upload `prodigytask5.ipynb` **OR** can oprn using githubnotebook URL.
 4. Load the VGG19 pre-trained model
 5. Extract content and style features
 6. Calculate content loss and style loss
